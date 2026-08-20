@@ -5,5 +5,5 @@
  2、使用keil打开路径LineFollow/projiect/Keil/SeekFree_MSPM0G3507_Device_Library.uvprojx<br>
  3、使用DAP下载器连接MSPM0G3507核心板，编译烧录。<br>  
 ### 滚球控制模块:<br>
-1、下载main.py
-2、使用tpye-c接口连接K230和电脑，将main.py拷入k230的sd卡中（sdcard而不是data）
+1、下载main.py<br>
+2、使用tpye-c接口连接K230和电脑，将main.py拷入k230的sd卡中（sdcard而不是data）<br>
