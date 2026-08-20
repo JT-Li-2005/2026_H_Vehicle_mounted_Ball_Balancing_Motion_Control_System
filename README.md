@@ -6,5 +6,5 @@
  3、使用DAP下载器连接MSPM0G3507核心板，编译烧录。<br>  
 ### 滚球控制模块:<br>
 1、下载main.py<br>
-2、使用tpye-c接口连接K230和电脑，将main.py拷入k230的sd卡中（sdcard而不是data）<br>
+2、使用tpye-c接口连接K230和电脑，将main.py拷入k230的sd卡中（sdcard而不是data）
 （注：K230的sd卡初始化步骤见XXX文件）<br>
