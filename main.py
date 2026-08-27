@@ -32,11 +32,11 @@ GRAY_THRESHOLD = (0, 135)
 BINARY_WHITE_THRESHOLD = (210, 255)
 
 # Blob 过滤参数
-MIN_PIXELS = 50
-MIN_SIZE = 6
-MAX_SIZE = 60
-MIN_ROUND_PERCENT = 10
-MIN_FILL_PERCENT = 0.5
+MIN_PIXELS = 50             # 钢球最小像素总数
+MIN_SIZE = 6                # 最小直径(像素)
+MAX_SIZE = 60               # 最大直径(像素)
+MIN_ROUND_PERCENT = 10      # 最小圆度百分比
+MIN_FILL_PERCENT = 0.5      # 最小填充率
 
 # ================= PID 控制参数配置 (调参区) =================
 
